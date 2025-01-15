@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Mohit Tejwani Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://mohittejwani.netlify.app/",
   },
 };
 
