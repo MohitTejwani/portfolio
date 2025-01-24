@@ -20,3 +20,8 @@
     margin-bottom: 0px;
   }
 }
+
+.logo-max-sl {
+  max-width: 50px;
+  max-height: 50px;
+}

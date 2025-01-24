@@ -24,7 +24,7 @@ class ProjectLanguages extends Component {
                     name={logo.skillName}
                   >
                     <span
-                      className="iconify"
+                      className="iconify logo-max-sl"
                       data-icon={logo.iconifyClass}
                       data-inline="false"
                     ></span>
