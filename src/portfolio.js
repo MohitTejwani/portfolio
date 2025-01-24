@@ -236,8 +236,7 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "JavaScript(Advance) ",
-      // subtitle: "",
+      title: "Problem Solver (Basic , Intermediate & Advance) ",
       logo_path: "hackerrank_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
@@ -245,11 +244,26 @@ const certifications = {
       color_code: "#8C151599",
     },
     {
+      title: "JavaScript(Advance) ",
+      // subtitle: "",
+      logo_path: "hackerrank_logo.png",
+      certificate_link: "/",
+      alt_name: "Stanford University",
+      color_code: "#8C151599",
+    },
+    {
+      title: "NodeJs(Advance) ",
+      // subtitle: "",
+      logo_path: "hackerrank_logo.png",
+      certificate_link: "/",
+      alt_name: "CutSort Certificate",
+      color_code: "#8C151599",
+    },
+    {
       title: "SQL (Advance)",
       // subtitle: "- Jogesh Muppala",
       logo_path: "hackerrank_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+      certificate_link: "/",
       alt_name: "Coursera",
       color_code: "#8C151599",
     },
@@ -257,8 +271,7 @@ const certifications = {
       title: "Fullstack Development",
       // subtitle: "- Jogesh Muppala",
       logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+      certificate_link: "/",
       alt_name: "Coursera",
       color_code: "#2A73CC",
     },
@@ -281,7 +294,7 @@ const experience = {
           title: "Senior Software Engineer",
           company: "Landmark Group Pvt Ltd.",
           company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
+          logo_path: "landmark_logo.png",
           duration: "March 2023 - Present",
           location: "Bangalore, Karnataka",
           description: [
@@ -299,7 +312,7 @@ const experience = {
           title: "Software Engineer",
           company: "Microland Pvt Ltd",
           company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
+          logo_path: "microland_logo.png",
           duration: "Jan 2022 - Dec 2023",
           location: "Bangalore, Karnataka",
           description: [
@@ -317,7 +330,7 @@ const experience = {
           title: "Software Engineer Developer",
           company: "Diatoz Software Solutions",
           company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
+          logo_path: "diatoz_logo.png",
           duration: "June 2020 - Jan 2022",
           location: "Bangalore, Karnataka",
           description: [
@@ -333,10 +346,11 @@ const experience = {
         {
           title: "Software Developer(Contract)",
           company: "Acharya Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
+          company_url:
+            "https://www.linkedin.com/school/acharya-institute-of-management-and-science/about/",
+          logo_path: "acharya_logo.png",
           duration: "June 2019 - Dec 2019",
-          location: "Ahmedabad, Gujarat",
+          location: "Bangalore, India",
           color: "#fc1f20",
           description: [
             "Designed and developed AES (Acharya Education Service), a web application offering tuition services for courses like IELTS, TOEFL, and PTE.",
